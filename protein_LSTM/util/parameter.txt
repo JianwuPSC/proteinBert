@@ -1,0 +1,8 @@
+embedding_dim:128
+hidden_size:512
+vocab_size:25
+seg_size:4
+start_id:21
+end_id:22
+lr:0.01
+weight_decay:0.05

@@ -1,0 +1,1 @@
+python MLM_transform_main.py --train_dataset=/home/wuj/data/genome/Domain/Pfam-A_1000.fa --vocab_size=25 --seg_size=2 --output_path=./pre_model/model_train --batch_size=8 --epochs=10 --hidden=32 --layers=4 --attn_heads=2

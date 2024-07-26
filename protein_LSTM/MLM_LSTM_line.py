@@ -1,0 +1,1 @@
+python MLM_LSTM_main.py --batch_size=8 --epochs=50 --accum_iter 100 --corpus_path=/home/wuj/data/genome/Domain/Pfam-A_1000.fa --output_dir=./pre_model --log_dir=./pre_model/pre_log --embedding_dim=64 --hidden_size=128
